@@ -1,7 +1,7 @@
 ---
 title: "Callback vs Promises vs Async Await"
-date: "2020-08-21"
-coverImage: ""
+date: "2020-08-26"
+coverImage: "callback.jpg"
 author: "Ankit Singh"
 tags: ["Callbacks", "Promises", "Async/Await"]
 ---
